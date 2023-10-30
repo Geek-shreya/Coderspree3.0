@@ -29,7 +29,8 @@ Minimum problems to complete | **Week_1**: `10` | **Week_2**: `10` | **Week_3**:
 |8|![AryanRastogi](https://avatars.githubusercontent.com/u/134607843?v=4&s=100)|[AryanRastogi](https://github.com/Arystar01)|2|45|
 |9|![ParthAgarwal](https://avatars.githubusercontent.com/u/113423032?v=4&s=100)|[ParthAgarwal](https://github.com/Parth27904)|2|45|
 |10|![PraveerNandan](https://avatars.githubusercontent.com/u/134937008?v=4&s=100)|[PraveerNandan](https://github.com/praveer7398)|2|45|
-|11|![ApoorvaSrivastava](https://avatars.githubusercontent.com/u/122932821?v=4&s=100)|[ApoorvaSrivastava](https://github.com/ApoorvaSri123)|2|45|
-|12|![GamandeepSingh](https://avatars.githubusercontent.com/u/116256043?v=4&s=100)|[GamandeepSingh](https://github.com/gamandeepsingh)|2|45|
-|13|![SarveshBaranwal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|[SarveshBaranwal](https://github.com/Serve-er)|2|45|
-|14|![PrabhatKeshari](https://avatars.githubusercontent.com/u/115912907?v=4&s=100)|[PrabhatKeshari](https://github.com/prabhat-04)|3|43|
+|11|![AryanPanwar](https://avatars.githubusercontent.com/u/121965055?v=4&s=100)|[AryanPanwar](https://github.com/chaudharyaryanpanwar)|2|45|
+|12|![ApoorvaSrivastava](https://avatars.githubusercontent.com/u/122932821?v=4&s=100)|[ApoorvaSrivastava](https://github.com/ApoorvaSri123)|2|45|
+|13|![GamandeepSingh](https://avatars.githubusercontent.com/u/116256043?v=4&s=100)|[GamandeepSingh](https://github.com/gamandeepsingh)|2|45|
+|14|![SarveshBaranwal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|[SarveshBaranwal](https://github.com/Serve-er)|2|45|
+|15|![PrabhatKeshari](https://avatars.githubusercontent.com/u/115912907?v=4&s=100)|[PrabhatKeshari](https://github.com/prabhat-04)|3|43|
