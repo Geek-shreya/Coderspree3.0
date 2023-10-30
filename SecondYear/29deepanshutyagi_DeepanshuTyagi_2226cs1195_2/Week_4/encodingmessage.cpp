@@ -19,3 +19,4 @@ string encode(string &message)
   encoded_message += current_char + to_string(count);
   return encoded_message;
 }
+ 
