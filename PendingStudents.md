@@ -7,7 +7,6 @@ Welcome to Coderspree3.0 🔥
 |Profile|Name|Solved|Year|logs|
 | :---: | :---: | :---: | :---: | :---: |
 |![PariGupta](https://avatars.githubusercontent.com/u/123859373?v=4&s=100)|[PariGupta](https://github.com/seeeyaa)|37|2|Completed `15` with minimum `10` in `Week_1`, Completed `10` with minimum `10` in `Week_2`, Completed `12` with minimum `10` in `Week_3`, `Week_4` Folder not found, |
-|![AdityaSharma](https://avatars.githubusercontent.com/u/123371724?v=4&s=100)|[AdityaSharma](https://github.com/adityshrma08)|36|2|Completed `15` with minimum `10` in `Week_1`, Completed `10` with minimum `10` in `Week_2`, Completed `11` with minimum `10` in `Week_3`, `Week_4` Folder not found, |
 |![DivyanshSrivastav](https://avatars.githubusercontent.com/u/133378091?v=4&s=100)|[DivyanshSrivastav](https://github.com/Divyansh670)|36|2|Completed `15` with minimum `10` in `Week_1`, Completed `10` with minimum `10` in `Week_2`, Completed `11` with minimum `10` in `Week_3`, `Week_4` Folder not found, |
 |![HarshiAgrawal](https://avatars.githubusercontent.com/u/114180714?v=4&s=100)|[HarshiAgrawal](https://github.com/harshi706)|30|3|Completed `10` with minimum `10` in `Week_1`, Completed `10` with minimum `10` in `Week_2`, Completed `10` with minimum `10` in `Week_3`, `Week_4` Folder not found, |
 |![AjeeshRawal](https://avatars.githubusercontent.com/u/118363624?v=4&s=100)|[AjeeshRawal](https://github.com/jeezzzz)|25|2|Completed `15` with minimum `10` in `Week_1`, Completed `10` with minimum `10` in `Week_2`, `Week_3` Folder not found, `Week_4` Folder not found, |
