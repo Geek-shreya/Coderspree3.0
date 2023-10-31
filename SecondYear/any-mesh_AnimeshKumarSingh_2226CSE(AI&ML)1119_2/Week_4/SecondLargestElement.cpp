@@ -1,4 +1,4 @@
-#include <bits/stdc++.h> 
+#include <bits/stdc++.h>
 int findSecondLargest(int n, vector<int> &arr)
 {
     // Write your code here.
