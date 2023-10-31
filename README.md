@@ -1,6 +1,6 @@
 
-Welcome to Coderspree3.0 🎃(The time for contributions is now closed; please come back next year.)
-=================================================================================================
+Welcome to Coderspree3.0 🎃(The time for contributions is now over now; please come back next year.)
+===================================================================================================
 
 
  **Thank you for your efforts and dedication . Your contributions are essential for your growth and success. We appreciate your involvement and look forward to seeing more of your contributions in the future.Happy coding! 🚀**  
