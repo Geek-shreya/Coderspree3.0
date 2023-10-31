@@ -33,6 +33,7 @@ Minimum problems to complete | **Week_1**: `10` | **Week_2**: `10` | **Week_3**:
 |12|![AryanPanwar](https://avatars.githubusercontent.com/u/121965055?v=4&s=100)|[AryanPanwar](https://github.com/chaudharyaryanpanwar)|2|45|
 |13|![ApoorvaSrivastava](https://avatars.githubusercontent.com/u/122932821?v=4&s=100)|[ApoorvaSrivastava](https://github.com/ApoorvaSri123)|2|45|
 |14|![AdityaSharma](https://avatars.githubusercontent.com/u/123371724?v=4&s=100)|[AdityaSharma](https://github.com/adityshrma08)|2|45|
-|15|![GamandeepSingh](https://avatars.githubusercontent.com/u/116256043?v=4&s=100)|[GamandeepSingh](https://github.com/gamandeepsingh)|2|45|
-|16|![SarveshBaranwal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|[SarveshBaranwal](https://github.com/Serve-er)|2|45|
-|17|![PrabhatKeshari](https://avatars.githubusercontent.com/u/115912907?v=4&s=100)|[PrabhatKeshari](https://github.com/prabhat-04)|3|43|
+|15|![SrishtiSingh](https://avatars.githubusercontent.com/u/123953052?v=4&s=100)|[SrishtiSingh](https://github.com/itsrishti)|2|45|
+|16|![GamandeepSingh](https://avatars.githubusercontent.com/u/116256043?v=4&s=100)|[GamandeepSingh](https://github.com/gamandeepsingh)|2|45|
+|17|![SarveshBaranwal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|[SarveshBaranwal](https://github.com/Serve-er)|2|45|
+|18|![PrabhatKeshari](https://avatars.githubusercontent.com/u/115912907?v=4&s=100)|[PrabhatKeshari](https://github.com/prabhat-04)|3|43|
