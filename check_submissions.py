@@ -7,8 +7,8 @@ import requests
 
 home = os.path.abspath(Path(__file__).parent)
 
-submission_architecture = {"Week_1": 5,"Week_2": 6,"Week_3":5,"Week_4":4};
-domains = ["SecondYear", "ThirdYear","FirstYear","FourthYear"]
+submission_architecture = {"Week_1": 10, "Week_2":10, "Week_3":10, "Week_4":9};
+domains = ["SecondYear", "ThirdYear","FourthYear"]
 
 
 class Student:
@@ -74,9 +74,9 @@ def check_structure(path, student: Student):
 
 def write_to_readme(filename, students_list):
 
-    mdFile = MdUtils(file_name=filename, title="Welcome to Coderspree3.0 🎃")
+    mdFile = MdUtils(file_name=filename, title="Welcome to Coderspree3.0 🎃(The time for contributions is now over now; please come back next year.)")
 #     ![Innogeeks Logo](https://user-images.githubusercontent.com/33064931/193105033-d03aa2e9-d4c3-4d02-b33e-466f3c567f39.png)
-    mdFile.new_paragraph(" **One-month Coding sprint to summon all the wizards of problem-solving, ranging from beginner to advanced! ✨ Get ready to be a part of the most auspicious society of the college, Innogeeks. Exclusive  access to buzzing discord server of Innogeeks which is full of knowledge and innovation. 🚀 Become a part of mentoring sessions by our amazing team of coder spree mentors, not just that - be ready to outshine on the leaderboard and get a chance to win exclusive coderspree goodies! 🍫 (limited to students of KIET, we'll expand it next time :) )**")
+    mdFile.new_paragraph(" **Thank you for your efforts and dedication . Your contributions are essential for your growth and success. We appreciate your involvement and look forward to seeing more of your contributions in the future.Happy coding! 🚀**")
     mdFile.new_line("<p align = 'center'><a href='https://innogeeks.in/' target='_blank'><img src='https://template-mail-images.s3.ap-south-1.amazonaws.com/20231002_150040_0000+(1).png'></a></p>")
 
     mdFile.new_paragraph(
